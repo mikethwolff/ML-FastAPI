@@ -1,6 +1,6 @@
 import pytest
 import pandas as pd
-from ml.clean_data import basic_cleaning
+#from ml.clean_data import basic_cleaning
 
 @pytest.fixture(scope="session")
 def loadData():
